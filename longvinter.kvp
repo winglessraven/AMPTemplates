@@ -1,6 +1,6 @@
 Meta.DisplayName=Longvinter
 Meta.Description=Longvinter Dedicated Server
-Meta.OS=Windows, Linux
+Meta.OS=Windows
 Meta.Arch=x86_64
 Meta.Author=Greelan
 Meta.URL=https://longvinter.com/news
@@ -10,7 +10,7 @@ Meta.ConfigManifest=longvinterconfig.json
 Meta.MetaConfigManifest=longvintermetaconfig.json
 Meta.ConfigRoot=longvinter.kvp
 Meta.MinAMPVersion=2.4.0.6
-Meta.SpecificDockerImage=
+Meta.SpecificDockerImage=cubecoders/ampbase:debian
 Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
